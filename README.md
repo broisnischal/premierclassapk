@@ -14,8 +14,9 @@ the build app is available also you can install app from there !
 
 Support me
 
+[Patreon -nees](https://www.patreon.com/techneesofficial17)
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/neesofficial"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="neesofficial" /></a></p><br><br>
 
 
-[Patreon -nees](https://www.patreon.com/techneesofficial17)

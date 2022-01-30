@@ -2,12 +2,12 @@
 
 A new Flutter project created by neeschal !.
 
-## Getting Started
+## Details
 
 This is the application to join the zoom online class by the application .
 of premier college of new-baneshwor,kathmandu where currently i study !
 
-##Clone the repository
+## Clone the repository
 get the installed packages ! 
 
 the build app is available also you can install app from there !

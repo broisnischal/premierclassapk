@@ -10,4 +10,5 @@ of premier college of new-baneshwor,kathmandu where currently i study !
 Support me
 
 [Buy me coffee](https://www.buymeacoffee.com/neesofficial)
+
 [Patreon -nees](https://www.patreon.com/techneesofficial17)

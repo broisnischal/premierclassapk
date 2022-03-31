@@ -1,8 +1,9 @@
 {
 	"12": {
 		"XIIA": {
-			"sunday": {
-				"first period": {
+			"sunday": [
+				{
+					"periodid": 1,
 					"subname": "Chemistry",
 					"teacher": "Upendra",
 					"cname": "uc",
@@ -10,7 +11,8 @@
 					"time": "11:00-11:45",
 					"faculty": "physics"
 				},
-				"second period": {
+				{
+					"periodid": 2,
 					"subname": "Nepali",
 					"teacher": "Yadav",
 					"cname": "yb",
@@ -18,7 +20,8 @@
 					"time": "11:45-12:30",
 					"faculty": "physics"
 				},
-				"third period": {
+				{
+					"periodid": 3,
 					"subname": "Physics",
 					"teacher": "Dinesh",
 					"cname": "DA",
@@ -26,7 +29,8 @@
 					"time": "12:30-13:15",
 					"faculty": "physics"
 				},
-				"fourth period": {
+				{
+					"periodid": 4,
 					"subname": "Maths",
 					"teacher": "Jyoti",
 					"cname": "jm",
@@ -34,7 +38,8 @@
 					"time": "13:15-14:00",
 					"faculty": "physics"
 				},
-				"fifth period": {
+				{
+					"periodid": 5,
 					"subname": "Break",
 					"teacher": "Break",
 					"cname": "",
@@ -42,7 +47,8 @@
 					"time": "14:00-14:30",
 					"faculty": "physics"
 				},
-				"sixth period": {
+				{
+					"periodid": 6,
 					"subname": "Chemistry",
 					"teacher": "Bishal",
 					"cname": "bt",
@@ -50,7 +56,8 @@
 					"time": "14:30-15:15",
 					"faculty": "physics"
 				},
-				"seventh period": {
+				{
+					"periodid": 7,
 					"subname": "English",
 					"teacher": "Samita",
 					"cname": "sl",
@@ -58,7 +65,8 @@
 					"time": "15:15-16:00",
 					"faculty": "physics"
 				},
-				"eighth period": {
+				{
+					"periodid": 8,
 					"subname": "Maths",
 					"teacher": "Hira",
 					"cname": "hm",
@@ -66,7 +74,8 @@
 					"time": "16:00-16:45",
 					"faculty": "physics"
 				},
-				"ninth period": {
+				{
+					"periodid": 9,
 					"subname": "Physics",
 					"teacher": "DKD",
 					"cname": "dkd",
@@ -74,7 +83,173 @@
 					"time": "16:45-17:30",
 					"faculty": "physics"
 				}
-			}
+			],
+			"monday": [
+				{
+					"periodid": 1,
+					"subname": "Practical",
+					"teacher": "lab assistant",
+					"cname": "",
+					"room": "XIIA",
+					"time": "11:00-11:45",
+					"faculty": "physics"
+				},
+				{
+					"periodid": 2,
+					"subname": "Practical",
+					"teacher": "lab assistant",
+					"cname": "",
+					"room": "XIIA",
+					"time": "11:45-12:30",
+					"faculty": "physics"
+				},
+				{
+					"periodid": 3,
+					"subname": "computer",
+					"teacher": "sishir",
+					"cname": "sm",
+					"room": "XIIA",
+					"time": "12:30-13:15",
+					"faculty": "physics"
+				},
+				{
+					"periodid": 4,
+					"subname": "Physics",
+					"teacher": "Dinesh",
+					"cname": "da",
+					"room": "XIIA",
+					"time": "13:15-14:00",
+					"faculty": "physics"
+				},
+				{
+					"periodid": 5,
+					"subname": "Break",
+					"teacher": "Break",
+					"cname": "",
+					"room": "XIIA",
+					"time": "14:00-14:30",
+					"faculty": "physics"
+				},
+				{
+					"periodid": 6,
+					"subname": "Physics",
+					"teacher": "dkd",
+					"cname": "dkd",
+					"room": "XIIA",
+					"time": "14:30-15:15",
+					"faculty": "physics"
+				},
+				{
+					"periodid": 7,
+					"subname": "Chemistry",
+					"teacher": "Bishal",
+					"cname": "bt",
+					"room": "XIIA",
+					"time": "15:15-16:00",
+					"faculty": "physics"
+				},
+				{
+					"periodid": 8,
+					"subname": "Physics",
+					"teacher": "Mukesh",
+					"cname": "mkp",
+					"room": "XIIA",
+					"time": "16:00-16:45",
+					"faculty": "physics"
+				},
+				{
+					"periodid": 9,
+					"subname": "Chemistry",
+					"teacher": "Upendra",
+					"cname": "uc",
+					"room": "XIIA",
+					"time": "16:45-17:30",
+					"faculty": "physics"
+				}
+			],
+			"tuesday": [
+				{
+					"periodid": 1,
+					"subname": "Maths",
+					"teacher": "Jyoti",
+					"cname": "jm",
+					"room": "XIIA",
+					"time": "11:00-11:45",
+					"faculty": "physics"
+				},
+				{
+					"periodid": 2,
+					"subname": "Chemistry",
+					"teacher": "dp",
+					"cname": "dp",
+					"room": "XIIA",
+					"time": "11:45-12:30",
+					"faculty": "physics"
+				},
+				{
+					"periodid": 3,
+					"subname": "Practical",
+					"teacher": "lab assistant",
+					"cname": "",
+					"room": "XIIA",
+					"time": "12:30-13:15",
+					"faculty": "physics"
+				},
+				{
+					"periodid": 4,
+					"subname": "Practical",
+					"teacher": "lab assistant",
+					"cname": "",
+					"room": "XIIA",
+					"time": "13:15-14:00",
+					"faculty": "physics"
+				},
+				{
+					"periodid": 5,
+					"subname": "Break",
+					"teacher": "Break",
+					"cname": "",
+					"room": "XIIA",
+					"time": "14:00-14:30",
+					"faculty": "physics"
+				},
+				{
+					"periodid": 6,
+					"subname": "Chemistry",
+					"teacher": "Bishal",
+					"cname": "bt",
+					"room": "XIIA",
+					"time": "14:30-15:15",
+					"faculty": "physics"
+				},
+				{
+					"periodid": 7,
+					"subname": "Maths",
+					"teacher": "hira",
+					"cname": "hm",
+					"room": "XIIA",
+					"time": "15:15-16:00",
+					"faculty": "physics"
+				},
+				{
+					"periodid": 8,
+					"subname": "Physics",
+					"teacher": "Mukesh",
+					"cname": "mkp",
+					"room": "XIIA",
+					"time": "16:00-16:45",
+					"faculty": "physics"
+				},
+				{
+					"periodid": 9,
+					"subname": "Chemistry",
+					"teacher": "Upendra",
+					"cname": "uc",
+					"room": "XIIA",
+					"time": "16:45-17:30",
+					"faculty": "physics"
+				}
+			]
 		}
 	}
 }

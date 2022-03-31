@@ -1,0 +1,80 @@
+{
+	"12": {
+		"XIIA": {
+			"sunday": {
+				"first period": {
+					"subname": "Chemistry",
+					"teacher": "Upendra",
+					"cname": "uc",
+					"room": "XIIA",
+					"time": "11:00-11:45",
+					"faculty": "physics"
+				},
+				"second period": {
+					"subname": "Nepali",
+					"teacher": "Yadav",
+					"cname": "yb",
+					"room": "XIIA",
+					"time": "11:45-12:30",
+					"faculty": "physics"
+				},
+				"third period": {
+					"subname": "Physics",
+					"teacher": "Dinesh",
+					"cname": "DA",
+					"room": "XIIA",
+					"time": "12:30-13:15",
+					"faculty": "physics"
+				},
+				"fourth period": {
+					"subname": "Maths",
+					"teacher": "Jyoti",
+					"cname": "jm",
+					"room": "XIIA",
+					"time": "13:15-14:00",
+					"faculty": "physics"
+				},
+				"fifth period": {
+					"subname": "Break",
+					"teacher": "Break",
+					"cname": "",
+					"room": "XIIA",
+					"time": "14:00-14:30",
+					"faculty": "physics"
+				},
+				"sixth period": {
+					"subname": "Chemistry",
+					"teacher": "Bishal",
+					"cname": "bt",
+					"room": "XIIA",
+					"time": "14:30-15:15",
+					"faculty": "physics"
+				},
+				"seventh period": {
+					"subname": "English",
+					"teacher": "Samita",
+					"cname": "sl",
+					"room": "XIIA",
+					"time": "15:15-16:00",
+					"faculty": "physics"
+				},
+				"eighth period": {
+					"subname": "Maths",
+					"teacher": "Hira",
+					"cname": "hm",
+					"room": "XIIA",
+					"time": "16:00-16:45",
+					"faculty": "physics"
+				},
+				"ninth period": {
+					"subname": "Physics",
+					"teacher": "DKD",
+					"cname": "dkd",
+					"room": "XIIA",
+					"time": "16:45-17:30",
+					"faculty": "physics"
+				}
+			}
+		}
+	}
+}

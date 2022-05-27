@@ -4,6 +4,8 @@ A new Flutter project created by neeschal !.
 
 ## Details
 
+## [LIVE AT](https://premierroutineapi.herokuapp.com/) also check the release of the application in my repo !
+
 This is the application to join the zoom online class by the application .
 of premier college of new-baneshwor,kathmandu where currently i study !
 
